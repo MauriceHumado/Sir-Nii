@@ -1,2 +1,2 @@
-# Sir-Nii
-my first repository
+NiiOkai
+My Assignments
